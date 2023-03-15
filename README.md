@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atnabon </h1>
 <h3 align="center">✨ MERN Stack Software Engineer | ALX Certified Backend development
 ✨
-
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=atnabon&label=Profile%20views&color=0e75b6&style=flat" alt="atnabon" /> </p>
 
