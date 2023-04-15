@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atnabon </h1>
-<h3 align="center">✨ MERN Stack Software Engineer | ALX Certified Backend development
+<h3 align="center">✨ MERN Stack Developer | ALX Certified Software Engineer
 ✨
 </h3>
 
