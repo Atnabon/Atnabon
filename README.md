@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atnabon </h1>
-<h3 align="center">✨Software Developer | ALX Certified Software Engineer
+<h3 align="center">✨Software Engineer
 ✨
 </h3>
 
