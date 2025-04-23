@@ -22,7 +22,7 @@
 
 ![react][react-icon] ![streamlit][streamlit-icon]
 ![GitHub-Actions][github-action-icon] ![docker][docker-icon]
-![ethereum][ethereum-icon]
+
 
 
 
@@ -58,4 +58,4 @@
 [raspberry-pi-icon]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi
 [airflow-icon]: https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white
 [spark-icon]: https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16
-[ethereum-icon]: https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white
+
