@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Atnabon Deressa</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m working on **Machine Learning, Data Science, Generative AI** Projects.
+😊 Machine learning engineer with Software Engineering experience. Proficient in building and deploying machine learning models, data preprocessing, natural language processing, and model optimization using tools such as Python, TensorFlow, and scikit-learn. Going forward, I aspire to make meaningful contributions to the industry by advancing theory and building ML-powered systems.
   
 - 👯 Looking collaboration opportunities on projects in Software Development, Machine Learning, and Generative AI.
 
