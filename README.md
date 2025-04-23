@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Atnabon Deressa</h1>
+<h1 align="center">Hi 👋, I'm Atnabon Deressa</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 👨‍💻 My projects are available at [https://sites.google.com/view/atnabon/projects?authuser=0](https://sites.google.com/view/atnabon/projects?authuser=0)
