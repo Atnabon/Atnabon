@@ -1,29 +1,25 @@
-<h1 align="center">Hi 👋, I'm Atnabon </h1>
-<h3 align="center">✨Software Engineer
-✨
-</h3>
+<h1 align="center">Hi 👋, I'm Atnabon Deressa Debu</h1>
+<h3 align="center">Software Engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=atnabon&label=Profile%20views&color=0e75b6&style=flat" alt="atnabon" /> </p>
+- 🔭 I’m working on **Machine Learning, Data Science, Generative AI** Projects.
+  
+- 👯 Looking collaboration opportunities on projects in Software Development, Machine Learning, and Generative AI.
 
-<p align="center"> <a href="https://twitter.com/atnabon_d" target="blank"><img src="https://img.shields.io/twitter/follow/atnabon?logo=twitter&style=for-the-badge" alt="aysi_143" /></a> </p>
+- 📫 How to reach me **atnabond@gmail.com**
 
+- 📄 Know about my experiences [Atnabon Deressa Debu](https://drive.google.com/file/d/1tKmq1t9E_HnVGWkTrHk1jOcmbXr2NyIf/view?usp=sharing)
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atnabon-deressa/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@atnabond) 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/atnabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atnabon" height="30" width="40" /></a>
-<a href="https://twitter.com/atnabon_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atnabon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atnabon-deressa-aa722b19a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atnabon" height="30" width="40" /></a>
-<a href="https://instagram.com/atnabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bonney" height="30" width="40" /></a>
-</p>
+### ⚙️ My Toolkits
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
+![linux][linux-icon] ![vscode][vscode-icon] ![python][python-icon] ![javascript][javascript-icon]
+![pytorch][pytorch-icon] ![tensorflow][tensorflow-icon] ![pandas][pandas-icon] ![numpy][numpy-icon] ![plotly][plotly-icon] ![scipy][scipy-icon] ![sklearn][sklearn-icon] ![DVC][dvc-icon]
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atnabon&" alt="atnabon" /></p>
+![kafka][kafka-icon] ![airflow][airflow-icon] ![spark][spark-icon]
+![flask][flask-icon] ![fastapi][fast-api-icon] 
+![mysql][mysql-icon] ![postgress][postgress-icon] ![redis][redis-icon] ![dbt][dbt-icon]
 
-
-
+![react][react-icon] ![streamlit][streamlit-icon]
+![GitHub-Actions][github-action-icon] ![docker][docker-icon]
+![ethereum][ethereum-icon]
