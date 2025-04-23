@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atnabon Deressa Debu</h1>
+<h1 align="center">Hi there 👋, I'm Atnabon Deressa Debu</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m working on **Machine Learning, Data Science, Generative AI** Projects.
