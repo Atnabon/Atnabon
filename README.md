@@ -1,6 +1,6 @@
 <h1 align="center">Atnabon Deressa</h1>
 <p align="center">
-Software Engineer
+AI/ML Engineer
 </p>
 
 <p align="center">
