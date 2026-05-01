@@ -117,3 +117,23 @@ I build AI systems that don't just work, they perform, scale, and deliver action
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanoy24&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanoy24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanoy24&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
