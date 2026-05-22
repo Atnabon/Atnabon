@@ -13,7 +13,7 @@ AI/ML Engineer
 
 ## Profile
 
-I build AI systems that don't just work, they perform, scale, and deliver actionable insights.  Specialized in agentic architectures, LLM powered applications, mobile super-apps, scalable data pipelines, and high reliability AI infrastructure. Strong focus on moving AI systems from experimentation to robust, observable, and maintainable production environments.  If you need an AI engineer who handles everything from model behavior to retrieval pipelines to inference serving, I can help you turn AI prototypes into reliable, production-ready systems that scale and deliver.
+I build AI systems that don't just work, they perform, scale, and deliver actionable insights. Specialized in agentic architectures, AI agent engineering, evaluation harness design and Forward Deployed Engineering, with hands-on experience in LangGraph multi-agent systems, MCP tool design, RAG pipelines, LLM-as-judge evaluation, and fine-tuning (LoRA, DPO, SimPO, ORPO) and Contributed to CashGo, a cross-border remittance app driving $1M+ in daily transaction volume, and the Dashen Super App, a mobile banking and lifestyle platform with 1M+ downloads. Maintainer of Goderash, an open-source audit and governance fabric for regulated AI agents with adapters for Anthropic, OpenAI, and LangGraph.
 
 ---
 
